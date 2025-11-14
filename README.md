@@ -51,11 +51,8 @@ The dashboard supports **upper management**, **sales/product teams**, and **logi
 ---
 
 ## 📷 Dashboard Preview
-| Overview | Shipping Analysis | Sales Insights |
+| Overview | Sales Analysis | Shipping Insights |
 |-----------|------------------|----------------|
-| ![Overview](Screenshots/SuperstoreDashboard_page-Overview.jpg) | ![Shipping](Screenshots/shipping_analysis.png) | ![Sales](Screenshots/sales_analysis.png) |
+| ![Overview](Screenshots/SuperstoreDashboard_page-Overview.jpg) | ![Sales](Screenshots/SuperstoreDashboard_page-Sales-Product.jpg) | ![Shipping](Screenshots/SuperstoreDashboard_page-Shipping.jpg) |
 
----
-
-## 📁 Project Structure
 
